@@ -4,7 +4,7 @@
 
 Welcome to this practical introduction to machine learning! 
 
-The goal of this series of tutorials is to get you started with machine learning fast and easy, so that you can then feel comfortable using it at work. 
+The goal of this series of tutorials is to get you started with machine learning fast and easy, so that you can then feel comfortable using it at work (or just for fun).
 
 If you'd like to try machine learning for the first time, you're at the right place. The only prerequisite is a vague knowledge of any programming language. Here, we're going to use python, which is ruling the field at the moment.
 
@@ -14,7 +14,7 @@ So here's a brief outline of the material that we will cover.
 
 1. Install python for machine learning with Anaconda
 * Minimal python for machine learning: 
-  * Python basics : variables, loops, functions, data structures
+  * Python basics : variables, loops, conditions, I/O, functions, data structures
   * Numpy arrays : efficient data manipulation in python
   * Plotting with matplotlib
   * Tips : most useful python packages, notebooks & IDEs.
@@ -26,7 +26,7 @@ So here's a brief outline of the material that we will cover.
 Without much ado, let's get started! 
 
 
-## Install python for machine learning with Anaconda
+## 1. Install python for machine learning with Anaconda
 
 **Prerequisite:** A linux or mac computer. 
 
@@ -207,6 +207,84 @@ Some packages are included in the [standard python library](https://docs.python.
 Fortunately, conda makes it extremely easy to install new packages. 
 
 ### Installing packages in a conda environment
+
+To install the packages we need, simply do:
+
+```
+conda install jupyter scikit-learn matplotlib
+```
+
+Here we installed:
+
+* jupyter notebook: a web server that will allow us to run python and make plots in our web browser
+* scikit-learn: the leading python machine learning library (apart from a few specific but important activitities like deep learning)
+* matplotlib: an old but still relevant plotting library
+
+as well as all the packages needed by these three. 
+
+To list all the packages installed in the environment, do: 
+
+```
+conda list
+```
+
+```
+# packages in environment at /Users/cbernet/anaconda2/envs/mlintro:
+#
+# Name                    Version                   Build  Channel
+appnope                   0.1.0                    py37_0  
+attrs                     19.3.0                     py_0  
+backcall                  0.1.0                    py37_0  
+blas                      1.0                         mkl  
+bleach                    3.1.0                    py37_0  
+ca-certificates           2019.11.27                    0  
+certifi                   2019.11.28               py37_0  
+cycler                    0.10.0                   py37_0  
+dbus                      1.13.12              h90a0687_0  
+decorator                 4.4.1                      py_0  
+defusedxml                0.6.0                      py_0  
+entrypoints               0.3                      py37_0  
+expat                     2.2.6                h0a44026_0  
+freetype                  2.9.1                hb4e5f40_0  
+gettext                   0.19.8.1             h15daf44_3  
+glib                      2.63.1               hd977a24_0  
+icu                       58.2                 h4b95b61_1  
+importlib_metadata        1.4.0                    py37_0  
+intel-openmp              2019.4                      233  
+ipykernel                 5.1.4            py37h39e3cac_0  
+ipython                   7.11.1           py37h39e3cac_0  
+...
+```
+
+### Using this repository locally
+
+As stated already, we're going to run the following parts of this course on Google Colab and FloydHub. 
+
+This part explains how you can run the tutorials of this course on your computer. 
+
+Clone this repository:
+
+```
+git clone https://github.com/cbernet/introduction_machine_learning.git
+```
+
+Go to the course directory: 
+
+```
+cd introduction_machine_learning
+```
+
+Start a jupyter notebook
+
+```
+jupyter notebook
+```
+
+Go to the `notebooks` directory, and click on the notebook of section 2. Then, follow the notebook. You can press shift+Enter to execute the current cell. 
+
+# Minimal python for machine learning
+
+Click on this link: 
 
 
 
