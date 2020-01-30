@@ -2,6 +2,15 @@
 
 **Illustration here**
 
+--
+
+**NOTES**: 
+
+* For now we use google colab, but I will port the instructions to floydhub when it's available.
+* English ou français? (English better I think)
+
+--
+
 Welcome to this practical introduction to machine learning! 
 
 The goal of this series of tutorials is to get you started with machine learning fast and easy, so that you can then feel comfortable using it at work (or just for fun).
@@ -11,6 +20,12 @@ If you'd like to try machine learning for the first time, you're at the right pl
 We're not going to bother much about theory, mathematics, statistics. Instead, we'll focus on practical exercises. You'll get your feets wet for the tools commonly used in research and the industry, and you'll build a real feeling for machine learning.  
 
 So here's a brief outline of the material that we will cover. 
+
+--
+
+add links to the summary below
+
+--
 
 1. Install python for machine learning with Anaconda
 * Minimal python for machine learning: 
@@ -27,6 +42,13 @@ Without much ado, let's get started!
 
 
 ## 1. Install python for machine learning with Anaconda
+
+
+--
+
+This part could be moved to a different markdown page, to keep this hub page short. Comments welcome. 
+
+--
 
 **Prerequisite:** A linux or mac computer. 
 
@@ -284,7 +306,8 @@ Go to the `notebooks` directory, and click on the notebook of section 2. Then, f
 
 # Minimal python for machine learning
 
-Click on this link: 
+* []
+
 
 
 
