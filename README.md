@@ -23,7 +23,10 @@ So here's a brief outline of the material that we will cover.
 
 --
 
-add links to the summary below
+**Notes:**
+
+* add links to the summary below
+* detailed summary for all sections (or remove all detailed summaries)
 
 --
 
