@@ -234,15 +234,13 @@ git clone https://github.com/cbernet/introduction_machine_learning.git
 Go to the course directory: 
 
 ```
-cd introduction_machine_learning
+cd introduction_machine_learning/notebooks
 ```
 
 Start a jupyter notebook
 
 ```
-jupyter notebook
+jupyter notebook 01_outline.ipynb
 ```
-
-Go to the `notebooks` directory, and click on the notebook `summary.ipynb`. Then, follow the notebook. 
 
 

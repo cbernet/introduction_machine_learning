@@ -15,21 +15,5 @@ We're not going to bother much about theory, mathematics, statistics. Instead, w
 This tutorial can run various platforms: 
 
 * On [floydhub](https://www.floydhub.com) start [here](notebooks/01_outline.ipynb)
-* On [Google Colab], start [here]()
-
-
-## Getting started
-
-In all tutorials, we will run our code on FloydHub, a remote platform that where everything we need is preinstalled. 
-
-**To test these tutorials in the preparation of the course, we will use Google Colab.**
-
-Simply click [here]() to get started. 
-
-
-## [OPTIONAL] Install python for machine learning with Anaconda
-
-If you want to install the software to run on your computer, please follow [these instructions](doc/install_python_anaconda.md). 
-
-
-
+* On [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb), start [here](https://colab.research.google.com/github/cbernet/introduction_machine_learning/blob/master/notebooks/01_outline.ipynb)
+* If you want to run on your own machine, please follow [these instructions](doc/install_python_anaconda.md). 
