@@ -14,6 +14,6 @@ We're not going to bother much about theory, mathematics, statistics. Instead, w
 
 This tutorial can run various platforms: 
 
-* On [floydhub](https://www.floydhub.com) start [here](notebooks/01_outline.ipynb)
-* On [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb), start [here](https://colab.research.google.com/github/cbernet/introduction_machine_learning/blob/master/notebooks/01_outline.ipynb)
+* To run on [floydhub](https://www.floydhub.com) start [here](doc/floydhub.md)
+* To run on [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb), start [here](https://colab.research.google.com/github/cbernet/introduction_machine_learning/blob/master/get_started_workspace.ipynb)
 * If you want to run on your own machine, please follow [these instructions](doc/install_python_anaconda.md). 
