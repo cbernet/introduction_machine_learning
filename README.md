@@ -68,7 +68,9 @@ Please follow the instructions below to get started with the platform of your ch
 
 FloydHub makes it possible for you to reserve CPU and GPU instances to run your code, and provides a web IDE based on Jupyter Lab for the development and study of your machine learning models. 
 
-For this course, you will be allowed to use the resources of the ge-insa-lyon floydhub team. For this: 
+For this course, you will use the resources of the ge-insa-lyon floydhub team, so you won't have to pay for your ressources :-) 
+
+So first, you need to subscribe to floydhub and the ge-insa-lyon team:  
 
 * subscribe to [FloydHub](https://www.floydhub.com). Note that **you do not have to provide payment information as requested**. If you do, you'll get free credits for your own account as a welcome gift. If you don't, you'll still be able to use the ressources of ge-insa-lyon. 
 * send your floydhub username to thomas.grenier AT insa-lyon.fr, and ask him to add you to the team ge-insa-lyon, as a participant to the training. 
