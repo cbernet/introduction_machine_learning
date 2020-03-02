@@ -1,5 +1,6 @@
 # An Introduction To Machine Learning
 
+
 ![](doc/images/transfer_learning.jpg)
 
 
@@ -11,34 +12,49 @@ If you want to try machine learning for the first time, you're at the right plac
 
 We're not going to bother much about theory, mathematics, statistics. Instead, we'll focus on practical exercises. You'll get your feets wet for the tools commonly used in research and the industry, and you'll build a real feeling for machine learning.  
 
+
 ## Outline
 
 The lectures are organized as a series of modules: 
 
-1. Python basics for machine learning: 
-   * python crash course 
-   * numpy crash course
-   * matplotlib crash course
-* Introduction to supervised learning 
-   * ... TODO ... 
-* Introduction to unsupervised learning
-   * dimensionality reduction 
-   * clustering 
-* Introduction to deep learning 
-   * get started with Keras and Tensorflow
-   * convolutional neural networks 
-   * embedding
-   * transfer learning
-* Long short term memories
-   * ... TODO ... 
-* Object detection with YOLOv3    
-   * ... TODO ...
+1- Python basics for machine learning
 
+* python crash course 
+* introduction to numpy
+* first plots with matplotlib 
+   
+2- Supervised learning
+
+* ... TODO ... 
+
+3- Unsupervised learning
+
+* dimensionality reduction 
+* clustering 
+
+4- Introduction to deep learning
+   
+* get started with Keras and Tensorflow
+* convolutional neural networks 
+* embedding
+* transfer learning
+
+5- Long short term memories
+   
+* ... TODO ... 
+
+6- Object detection in images with YOLOv3
+   
+* ... TODO ...
+
+   
 Each module features a set of slides presenting the main concepts, and jupyter notebooks with practical exercises. 
 
 ## How to follow this course? 
 
-The practical exercises can be done on several platforms. Please follow the instructions below to get started with the platform of your choice. 
+The course can be taken on several platforms. 
+
+Please follow the instructions below to get started with the platform of your choice. 
 
 ### FloydHub
 
