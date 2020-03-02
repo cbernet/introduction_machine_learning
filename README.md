@@ -50,7 +50,7 @@ The practical exercises can be done on several platforms. Please follow the inst
 
 [FloydHub](https://www.floydhub.com) is a platform as a service that provides a zero-setup infrastructure for data science and deep learning. 
 
-FloydRun makes it possible for you to reserve CPU and GPU instances to run your code, and provides a web IDE based on Jupyter Lab for the development and study of your machine learning models. 
+FloydHub makes it possible for you to reserve CPU and GPU instances to run your code, and provides a web IDE based on Jupyter Lab for the development and study of your machine learning models. 
 
 For this course, you will be allowed to use the resources of the ge-insa-lyon floydhub team. For this: 
 
