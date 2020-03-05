@@ -29,7 +29,7 @@ The lectures are organized as a series of modules:
 
 3- Unsupervised learning
 
-* dimensionality reduction 
+* visualizing datasets and dimensionality reduction 
 * clustering 
 
 4- Introduction to deep learning
