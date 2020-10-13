@@ -33,7 +33,7 @@ In the Runtime menu, you can choose a runtime type. For most notebooks, you don'
  
 ## Ouline
 
-### Basics of scientific python for machine learning
+### Basics of scientific python for machine learning (Oct 13)
 
 No slides here, just the notebooks: 
 
@@ -42,7 +42,7 @@ No slides here, just the notebooks:
 * [first plots with matplotlib](https://colab.research.google.com/github/cbernet/introduction_machine_learning/blob/master/notebooks/python_crash_course/03_plotting_for_machine_learning.ipynb) 
 * Installing Anaconda and scientific python packages (live)
    
-### Supervised learning
+### Supervised learning (Oct 14 am)
 
 [slides](https://docs.google.com/presentation/d/1WTeOmpcj3Fr4KU2-ZASnBPjyNd5OddY6Bmr9YYZaXDs/edit?usp=sharing)
 
@@ -52,14 +52,14 @@ No slides here, just the notebooks:
 * [Predicting housing prices in California with XGBoost](https://colab.research.google.com/github/cbernet/introduction_machine_learning/blob/master/notebooks/supervised_learning/xgboost_housing.ipynb)
 * [The universal approximation theorem](https://colab.research.google.com/github/cbernet/introduction_machine_learning/blob/master/notebooks/supervised_learning/universal_approx.ipynb)
 
-### Unsupervised learning 
+### Unsupervised learning (Oct 14 pm)
 
 [slides]()
 
 * [Visualizing datasets and dimensionality reduction](https://colab.research.google.com/github/cbernet/introduction_machine_learning/blob/master/notebooks/unsupervised_learning/visualizing_datasets.ipynb)
 * [Clustering](https://colab.research.google.com/github/cbernet/introduction_machine_learning/blob/master/notebooks/unsupervised_learning/clustering.ipynb)
 
-### Introduction to deep learning
+### Introduction to deep learning (Oct 20 am)
    
 * Get started with Keras and Tensorflow
 * Convolutional neural networks 
