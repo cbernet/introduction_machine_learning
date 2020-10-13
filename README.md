@@ -6,89 +6,63 @@
 
 Welcome to this practical introduction to machine learning! 
 
+It was given for the first time at the University of Lyon  between October 13 and 22, 2020. 
+
 The goal of these lectures is to get you started with machine learning fast and easy, so that you can then feel comfortable using it at work (or just for fun).
 
 If you want to try machine learning for the first time, you're at the right place. The only prerequisite is a vague knowledge of any programming language. Here, we're going to use python, which is ruling the field at the moment.
 
-We're not going to bother much about theory, mathematics, statistics. Instead, we'll focus on practical exercises. You'll get your feets wet for the tools commonly used in research and the industry, and you'll build a real feeling for machine learning.  
+We're not going to bother too much about theory, mathematics, statistics. 
 
+Instead, we'll focus on practical exercises. You'll get your feets wet for the tools commonly used in research and the industry, and you'll build a real feeling for machine learning.  
 
-## Outline
-
-The lectures are organized as a series of modules: 
-
-1- Python basics for machine learning
-
-* python crash course 
-* introduction to numpy
-* first plots with matplotlib 
-   
-2- Supervised learning
-
-* ... TODO ... 
-
-3- Unsupervised learning
-
-* visualizing datasets and dimensionality reduction 
-* clustering 
-
-4- Introduction to deep learning
-   
-* get started with Keras and Tensorflow
-* convolutional neural networks 
-* embedding
-* transfer learning
-
-5- Long short term memories
-   
-* ... TODO ... 
-
-6- Object detection in images with YOLOv3
-   
-* ... TODO ...
-
-   
-Each module features a set of slides presenting the main concepts, and jupyter notebooks with practical exercises. 
 
 ## How to follow this course? 
 
-The course can be taken on several platforms. 
+The lectures are organized as a series of modules, featuring a set of introductory slides and / or practical jupyter notebooks. 
 
-Please follow the instructions below to get started with the platform of your choice. 
+You can run the notebooks on Google Colab by just clicking on their link. 
 
-### FloydHub
+*In the notebooks, at the first code cell, Google Colab will ask you if you really want to execute it. Just say yes.*
 
----
+In the Runtime menu, you can choose a runtime type. For most notebooks, you don't have to care about this. 
 
-**Reserved to participants of the machine learning training at Université de Lyon, April 2020**
+**For deep learning notebooks, choose GPU to benefit from hardware acceleration.**
+ 
+**Just after opening a notebook in Colab, make sure to unwrap all the code by doing View -> Expand sections.** so that you don't miss anything. You can also unwrap by simply clicking on collapsed sections when you reach them. 
+ 
+## Ouline
 
---- 
+### Basics of scientific python for machine learning
 
-[FloydHub](https://www.floydhub.com) is a platform as a service that provides a zero-setup infrastructure for data science and deep learning. 
+No slides here, just the notebooks: 
 
-FloydHub makes it possible for you to reserve CPU and GPU instances to run your code, and provides a web IDE based on Jupyter Lab for the development and study of your machine learning models. 
+* [python crash course](https://colab.research.google.com/github/cbernet/introduction_machine_learning/blob/master/notebooks/python_crash_course/01_python_crash_course_for_machine_learning.ipynb) 
+* [introduction to numpy](https://colab.research.google.com/github/cbernet/introduction_machine_learning/blob/master/notebooks/python_crash_course/02_numpy_for_machine_learning.ipynb)
+* [first plots with matplotlib](https://colab.research.google.com/github/cbernet/introduction_machine_learning/blob/master/notebooks/python_crash_course/03_plotting_for_machine_learning.ipynb) 
+* Installing Anaconda and scientific python packages (live)
+   
+### Supervised learning
 
-For this course, you will use the resources of the ge-insa-lyon floydhub team, so you won't have to pay for your ressources :-) 
+[slides](https://docs.google.com/presentation/d/1WTeOmpcj3Fr4KU2-ZASnBPjyNd5OddY6Bmr9YYZaXDs/edit?usp=sharing)
 
-So first, you need to subscribe to floydhub and the ge-insa-lyon team:  
+* [The 1-neuron network (Logistic regression)](https://colab.research.google.com/github/cbernet/introduction_machine_learning/blob/master/notebooks/supervised_learning/logistic_regression_1d.ipynb)
+* [Non-linearities](https://colab.research.google.com/github/cbernet/introduction_machine_learning/blob/master/notebooks/supervised_learning/logistic_regression_2d.ipynb)
+* [Overfitting illustrated](https://colab.research.google.com/github/cbernet/introduction_machine_learning/blob/master/notebooks/supervised_learning/overfitting.ipynb)
+* [Predicting housing prices in California with XGBoost](https://colab.research.google.com/github/cbernet/introduction_machine_learning/blob/master/notebooks/supervised_learning/xgboost_housing.ipynb)
+* [The universal approximation theorem](https://colab.research.google.com/github/cbernet/introduction_machine_learning/blob/master/notebooks/supervised_learning/universal_approx.ipynb)
 
-* subscribe to [FloydHub](https://www.floydhub.com). Note that **you do not have to provide payment information as requested**. If you do, you'll get free credits for your own account as a welcome gift. If you don't, you'll still be able to use the ressources of ge-insa-lyon. 
-* send your floydhub username to thomas.grenier AT insa-lyon.fr, and ask him to add you to the team ge-insa-lyon, as a participant to the training. 
+### Unsupervised learning 
 
-After getting confirmation that you're in the team:
+[slides]()
 
-[START!](https://www.floydhub.com/ge-insa-lyon/workspaces/run_8NNKTRZg4KcRtMeCU4dFzJ76)
+* [Visualizing datasets and dimensionality reduction](https://colab.research.google.com/github/cbernet/introduction_machine_learning/blob/master/notebooks/unsupervised_learning/visualizing_datasets.ipynb)
+* [Clustering](https://colab.research.google.com/github/cbernet/introduction_machine_learning/blob/master/notebooks/unsupervised_learning/clustering.ipynb)
 
-### Google Colab
+### Introduction to deep learning
+   
+* Get started with Keras and Tensorflow
+* Convolutional neural networks 
+* Embedding
+* Transfer learning
 
-[Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) is another platform as a service for data science and deep learning. 
-
-The basic plan is completely free, but your processes will get killed if they take too long. Also, processing large datasets on Google Colab is not practical.
-
-[START!](https://colab.research.google.com/github/cbernet/introduction_machine_learning/blob/master/get_started_workspace.ipynb)
-
-### Your own machine
-
-If you want to run on your own machine, you will need to install all the necessary software by yourself, which is actually an easy task with Anaconda. 
-
-please follow [these instructions](doc/install_python_anaconda.md). 
