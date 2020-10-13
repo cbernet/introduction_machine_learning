@@ -55,8 +55,12 @@ No slides here, just the notebooks:
 ### Unsupervised learning (Oct 14 pm)
 
 
-* [slides](https://drive.google.com/file/d/1NkmNR3EH2Y9G4mGufoYxgvNpigFIaEAi/view?usp=sharing) [Visualizing datasets and dimensionality reduction](https://colab.research.google.com/github/cbernet/introduction_machine_learning/blob/master/notebooks/unsupervised_learning/visualizing_datasets.ipynb)
-* [slides](https://drive.google.com/file/d/1NkRtXN9mPscZaE6CMqeJ4l4uNCPvtK9z/view?usp=sharing) [Clustering](https://colab.research.google.com/github/cbernet/introduction_machine_learning/blob/master/notebooks/unsupervised_learning/clustering.ipynb)
+* Visualizing datasets and dimensionality reduction: 
+  * [slides](https://drive.google.com/file/d/1NkmNR3EH2Y9G4mGufoYxgvNpigFIaEAi/view?usp=sharing) 
+  * [notebook](https://colab.research.google.com/github/cbernet/introduction_machine_learning/blob/master/notebooks/unsupervised_learning/visualizing_datasets.ipynb)
+* Clustering: 
+  * [slides](https://drive.google.com/file/d/1NkRtXN9mPscZaE6CMqeJ4l4uNCPvtK9z/view?usp=sharing) 
+  * [notebook](https://colab.research.google.com/github/cbernet/introduction_machine_learning/blob/master/notebooks/unsupervised_learning/clustering.ipynb)
 
 ### Introduction to deep learning (Oct 20 am)
    
