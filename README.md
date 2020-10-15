@@ -69,3 +69,8 @@ No slides here, just the notebooks:
 * Embedding
 * Transfer learning
 
+### Long Short Term Memory networks (Oct 20 pm)
+   
+* [slides](ftp://lyoftp.in2p3.fr/baulieu/nn_data/lstm.pdf)
+* [Signals classification with MLP and LSTM networks](https://colab.research.google.com/github/cbernet/introduction_machine_learning/blob/master/notebooks/lstm/01_Neda-lstm.ipynb)
+* [Anomaly detection on time series data with LSTM network](https://colab.research.google.com/github/cbernet/introduction_machine_learning/blob/master/notebooks/lstm/02_lstm_prediction.ipynb)
