@@ -68,7 +68,7 @@ No slides here, just the notebooks:
   * [slides](https://docs.google.com/presentation/d/1m_5nQO6Phimw5vq_A00UeWar2CvI_GLxR8RgaYo0-04/edit?usp=sharing)
   * [notebook](https://colab.research.google.com/github/cbernet/introduction_machine_learning/blob/master/notebooks/deep_learning_intro/keras_tensorflow_intro.ipynb)
 * Convolutional neural networks 
-  * [slides]()
+  * [slides](https://docs.google.com/presentation/d/1OJtqOd_Q7CHduzb5-foSTAvQlTOTK1Ia-A6ZPUvQ3JY/edit?usp=sharing)
   * [Handwritten digits recognition with Keras and TensorFlow](https://colab.research.google.com/github/cbernet/introduction_machine_learning/blob/master/notebooks/deep_learning_intro/keras_tensorflow_handwritten_digits.ipynb)
 * Transfer learning
   * [slides](https://docs.google.com/presentation/d/14cynveKXJIxwT7JwmPFnYthAazrfJS07M3OTrsm4vJw/edit?usp=sharing)
