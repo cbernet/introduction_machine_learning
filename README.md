@@ -64,7 +64,9 @@ No slides here, just the notebooks:
 
 ### Introduction to deep learning (Oct 20 am)
    
-* Get started with Keras and Tensorflow
+* Get started with Keras and Tensorflow 
+  * [slides](https://docs.google.com/presentation/d/1m_5nQO6Phimw5vq_A00UeWar2CvI_GLxR8RgaYo0-04/edit?usp=sharing)
+  * [notebook](https://colab.research.google.com/github/cbernet/introduction_machine_learning/blob/master/notebooks/deep_learning_intro/keras_tensorflow_intro.ipynb)
 * Convolutional neural networks 
 * Embedding
 * Transfer learning
