@@ -71,6 +71,7 @@ No slides here, just the notebooks:
   * [slides]()
   * [Handwritten digits recognition with Keras and TensorFlow](https://colab.research.google.com/github/cbernet/introduction_machine_learning/blob/master/notebooks/deep_learning_intro/keras_tensorflow_handwritten_digits.ipynb)
 * Transfer learning
+  * [slides](https://docs.google.com/presentation/d/14cynveKXJIxwT7JwmPFnYthAazrfJS07M3OTrsm4vJw/edit?usp=sharing)
   * [Dogs vs cats with transfer learning](https://colab.research.google.com/github/cbernet/introduction_machine_learning/blob/master/notebooks/deep_learning_intro/transfer_learning.ipynb)
 
 ### Long Short Term Memory networks (Oct 20 pm)
